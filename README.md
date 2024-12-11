@@ -9,7 +9,7 @@ This project is a powerful dashboard designed to monitor and support the progres
 
 Clone the repository:
 
-git clone https://github.com/yourusername/asd-training-dashboard.git
+git clone [https://github.com/yourusername/asd-training-dashboard.git](https://github.com/manojkumar16122/Asd-final.git)
 
 Navigate to the project directory:
 
